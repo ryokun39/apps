@@ -1,5 +1,5 @@
 body {
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
 }
 
 article {
@@ -21,3 +21,44 @@ article p {
 article li {
   font-size: 1em;
 }
+
+.marketing_img {
+	width: 100%;
+	display: block;
+}
+
+.upbadge {
+	position:absolute;
+	right:39%;
+	bottom:38%;
+}
+
+.downbadge {
+	position:absolute;
+	right:27%;
+	bottom:27%;
+}
+
+div.content {
+	width: 100%;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.relative{
+	position:relative;
+}
+
+div.footer {
+	background-color:#FF8311;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	padding:20px 0;
+	text-align:center;
+	color:#FFFFFF;
+	
+}
+
+
