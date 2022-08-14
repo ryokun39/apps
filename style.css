@@ -28,12 +28,14 @@ article li {
 }
 
 .upbadge {
+	width: 22%;
 	position:absolute;
 	right:39%;
 	bottom:38%;
 }
 
 .downbadge {
+	width: 22%;
 	position:absolute;
 	right:27%;
 	bottom:27%;
@@ -41,7 +43,7 @@ article li {
 
 div.content {
 	width: 100%;
-	max-width: 500px;
+	/*max-width: 500px;*/
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -52,13 +54,13 @@ div.relative{
 
 div.footer {
 	background-color:#FF8311;
-	max-width: 500px;
+	/*max-width: 500px;*/
 	margin-left: auto;
 	margin-right: auto;
 	padding:20px 0;
 	text-align:center;
 	color:#FFFFFF;
-	
+	font-size:xx-large;
 }
 
 
